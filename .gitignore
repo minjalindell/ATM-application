@@ -1,0 +1,10 @@
+backend/node_modules/
+bank_automat/build/
+bank_automat/*.user
+pinUi/build/
+pinUi/*.user
+REST/build/
+REST/*.user
+RFID/build/
+RFID/*.user
+backend/.env

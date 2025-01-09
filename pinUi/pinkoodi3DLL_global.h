@@ -1,0 +1,12 @@
+#ifndef PINKOODI3DLL_GLOBAL_H
+#define PINKOODI3DLL_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(PINKOODI3DLL_LIBRARY)
+#  define PINKOODI3DLL_EXPORT Q_DECL_EXPORT
+#else
+#  define PINKOODI3DLL_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // PINKOODI3DLL_GLOBAL_H
