@@ -25,9 +25,12 @@ Tämä projekti on ryhmätyönä toteutettu ATM-sovellus, jossa yhdistettiin sel
 
 ## Mitä opin
 
-- Opin ryhmätyötä ja fyysisen laitteiston integrointia web-sovellukseen
-- Opin käyttöliittymän ja laitteiston yhteispelin suunnittelua
-
+- Opin ryhmätyötä ja projektinhallintaa, erityisesti web-sovelluksen ja fyysisen laitteen yhdistämisessä
+- Opin RFID-lukijoiden integroinnin ja testauksen käytännössä
+- Opin PIN-koodin syötön ja tarkistuksen toteuttamisen selainpohjaisessa käyttöliittymässä
+- Opin käyttöliittymän ja fyysisen laitteiston yhteispelin suunnittelun ja toteutuksen
+- Opin front-end teknologioiden (HTML, CSS, JavaScript) hyödyntämisen interaktiivisen sovelluksen rakentamisessa
+- Opin visuaalisen suunnittelun ja käyttöliittymän viimeistelyn käytännössä
 
 ## Video pankkiautomaatin toiminnasta
 https://www.youtube.com/watch?v=L0B_aV7m6qA&t=17s
