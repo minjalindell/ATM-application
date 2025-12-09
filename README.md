@@ -19,8 +19,9 @@ Tämä projekti on ryhmätyönä toteutettu ATM-sovellus, jossa yhdistettiin sel
 
 ## Ohjelmointikielet
 
-- HTML, CSS, JavaScript (käyttöliittymä ja sovelluslogiikka)  
-- Arduino / RFID-lukijat (fyysinen tunnistus ja laitteiston ohjaus)  
+- HTML
+- CSS
+- JavaScript 
 
 ## Mitä opin
 
