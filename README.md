@@ -17,11 +17,13 @@ Tämä projekti on ryhmätyönä toteutettu ATM-sovellus, jossa yhdistettiin sel
 - Opin, miten fyysinen laitteisto yhdistetään web-käyttöliittymään ja sovelluslogiikkaan
 - Tein automaatin ulkonäön itse piirtämällä
 
-## Ohjelmointikielet
+## Käytetyt teknologiat
 
-- HTML
-- CSS
-- JavaScript 
+- C++
+- JavaScript
+- Qmake
+- Arduino
+- RFID-lukijat
 
 ## Mitä opin
 
